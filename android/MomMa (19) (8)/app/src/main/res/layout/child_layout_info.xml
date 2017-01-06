@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:id="@+id/LinearLayout01"
+	android:layout_width="fill_parent"
+	android:orientation="vertical"
+	android:layout_height="50dip"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<View
+		android:layout_width="match_parent"
+		android:layout_height="2dp"
+		android:background="#EAEAEA"/>
+	<TextView
+		android:layout_width="fill_parent"
+		android:layout_height="45dip"
+		android:paddingLeft="5dip"
+		android:paddingRight="5dip"
+		android:textStyle="bold"
+		android:textSize="17dip"
+		android:gravity="center_vertical"
+		android:id="@+id/tvChild_info"
+		android:text="Children"
+		android:textColor="#95989A"></TextView>
+</LinearLayout>

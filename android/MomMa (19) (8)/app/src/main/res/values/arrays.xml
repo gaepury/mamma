@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+
+    <string-array name="arrays">
+
+
+        <item>단백질</item>
+        <item>지방</item>
+        <item>포화지방</item>
+        <item>트랜스지방</item>
+        <item>탄수화물</item>
+        <item>콜레스테롤</item>
+        <item>나트륨</item>
+        <item>칼슘</item>
+        <item>인</item>
+        <item>철분</item>
+        <item>아연</item>
+        <item>마그네슘</item>
+        <item>칼륨</item>
+        <item>염소</item>
+        <item>구리</item>
+        <item>요오드</item>
+        <item>망간</item>
+        <item>셀레늄</item>
+        <item>비타민A</item>
+        <item>비타민B1</item>
+        <item>비타민B2</item>
+        <item>비타민B6</item>
+        <item>비타민B12</item>
+        <item>비타민C</item>
+        <item>비타민D3</item>
+        <item>비타민E</item>
+        <item>비타민K1</item>
+        <item>비타민K2</item>
+        <item>비타민K</item>
+        <item>나이아신</item>
+        <item>엽산</item>
+        <item>판토텐산</item>
+        <item>비오틴</item>
+        <item>아노시톨</item>
+        <item>베타카로틴</item>
+        <item>리놀레산</item>
+        <item>알파-리놀렌산</item>
+        <item>감마-리놀렌산</item>
+        <item>DHA</item>
+        <item>아라키돈산</item>
+        <item>L-트리토판</item>
+        <item>L-아르기닌</item>
+        <item>L-시스틴</item>
+        <item>L-카르니틴</item>
+        <item>타우린</item>
+        <item>알파락트알부민</item>
+        <item>갈락토올리고당</item>
+        <item>갈락토실락토스</item>
+        <item>프락토올리고당</item>
+        <item>락토페린</item>
+        <item>뉴클레오타이드</item>
+        <item>강글리오사이드</item>
+        <item>스핑고마이엘린</item>
+        <item>클리코메크로펩타이드</item>
+        <item>시알산</item>
+        <item>인지질</item>
+        <item>포스파티딜콜린</item>
+        <item>포스파티딜세린</item>
+        <item>포스파티딜이노시톨</item>
+        <item>포스파티딜에탄올아민</item>
+        <item>콜린</item>
+        <item>오스테오폰틴(락토폰틴)</item>
+        <item>CPP</item>
+        <item>당류</item>
+        <item>2-LG</item>
+        <item>2-PG</item>
+        <item>AMP</item>
+        <item>CLA</item>
+        <item>CMP</item>
+        <item>EGF</item>
+        <item>GMP</item>
+        <item>IGF</item>
+        <item>IMP</item>
+        <item>lgG</item>
+        <item>lgY</item>
+        <item>MCT</item>
+        <item>slgA</item>
+        <item>TGF-베타</item>
+        <item>TPA-CPP</item>
+        <item>UMP</item>
+        <item>감마-리놀렌산</item>
+        <item>글리코메크로펩타이드(GMP)</item>
+        <item>라피노스</item>
+        <item>락츄로스</item>
+        <item>락타데린</item>
+        <item>레시틴</item>
+        <item>루테인</item>
+        <item>리놀렌산</item>
+        <item>리소짐</item>
+        <item>말토올리고당</item>
+        <item>메티오닌</item>
+        <item>뮤신</item>
+        <item>베타카제인</item>
+        <item>사이알릴올리고당</item>
+        <item>세라마이드</item>
+        <item>올레아마이드</item>
+        <item>유당</item>
+        <item>이노시톨</item>
+        <item>이눌린</item>
+        <item>이소말토올리고당</item>
+        <item>폴리아민</item>
+        <item>폴리페놀</item>
+
+
+    </string-array>
+
+
+</resources>

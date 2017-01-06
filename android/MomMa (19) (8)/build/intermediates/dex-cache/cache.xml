@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1bb1ad64e9843f9a4c6d6f93e3417677706a49c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cc5cc1bd6614683635670d42c4f50daaa8263c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bf34c4b4fcd3f6913eca652d13c51dbde51c3a4">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.2.0_bcc07bf8a7088cf88bdc346adc162ead1bcf59a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_207a53d8eba0f344c2685a2113eb5c52bdf87233\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_454c632e155a633a40f7b5ce2c9e21d5f62fa64e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_9b485cf176202e9c56219760b014f3df3f086018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_514228de81d07bcaaca2a7385fd1fdc6d6904bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8f682db8a8fa08f8616ba84578b2823a7c4691dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1dcb8005f460d87baed0abdc9ec997a58797856e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_acb7051667ed67d3bd35c9bc945e2e1347186c6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_68ac5aa9ee6f5b01f7b09d4394b7fa567dd7c77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_72b6d344ae2d6635f64eddca49224b1a5b3a1bc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_24ba666ba3428019b07887cb1b57fa00c466f5ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="589938f3bf5c1d7b1018fb35e9574f531f066f73">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a86670a07ec1fbecef7050e178e688838392dc51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e5bfae59424c346203488bb2ec8e1a8c3d79d7c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_41ab605ffa4dd1a0b77b115d04b606c23ee54a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03837d65b9df56302f9b2cae1624cc988f75069">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b346838d7e2b3e9df2d2c570593850ae52678aa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_34b19a4920030e364b32ceb816f2592fd3549013\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_dc4694938ccf1351a417dc49520cdea1d98bac79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_d861f6526d61e35c066f77fa51700ca3729e9d12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_09cba954f840226ebbce375a701a6be674f0b0f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_86352e69cb5df0d22c76acae267a280656c4c5e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_f70df7f15056db2dfd7cf78982bb391fcd11b260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e7cb6b4a136483ebb0f7b90f08543b722e4f702f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_fee0b40709ee4437d4aff13dea59162ecef5fb6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_1652f4aae3072c4b9d3525d52f3d6b11b6983a3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ded5f3a2f6dba56126da62947876268ff1f30dca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\pc\AndroidStudioProjects\MomMa (19)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1615f92f81c7948fb42e909e8ac6ab6a763a9941\classes.dex" />
+    </item>
+
+</items>

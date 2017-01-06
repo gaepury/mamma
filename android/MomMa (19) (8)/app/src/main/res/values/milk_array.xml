@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name="milk_array">
+
+        <item>앱솔루트 프리미엄 명작 1단계</item>
+        <item>앱솔루트 프리미엄 명작 2단계</item>
+        <item>앱솔루트 프리미엄 명작 3단계</item>
+        <item>앱솔루트 프리미엄 명작 4단계</item>
+        <item>앱솔루트 자연의 선물 유기농 궁 1단계</item>
+        <item>앱솔루트 자연의 선물 유기농 궁 2단계</item>
+        <item>앱솔루트 자연의 선물 유기농 궁 3단계</item>
+        <item>앱솔루트 자연의 선물 유기농 궁 4단계</item>
+        <item>앱솔루트 현명한 엄마의 선택 센서티브 1단계</item>
+        <item>앱솔루트 현명한 엄마의 선택 센서티브 2단계</item>
+        <item>앱솔루트 현명한 엄마의 선택 센서티브 3단계</item>
+        <item>앱솔루트 현명한 엄마의 선택 센서티브 4단계</item>
+        <item>매일맘마 오리지널 1단계</item>
+        <item>매일맘마 오리지널 2단계</item>
+        <item>매일맘마 오리지널 3단계</item>
+        <item>앱솔루트 본 1단계</item>
+        <item>앱솔루트 본 2단계</item>
+        <item>앱솔루트 본 3단계</item>
+        <item>앱솔루트 베이비웰 소이</item>
+        <item>앱솔루트 베이비웰 아기설사</item>
+        <item>앱솔루트 베이비웰 HA</item>
+        <item>앱솔루트 베이비웰 프리미</item>
+        <item>앱솔루트 베이비웰 LP</item>
+        <item>앱솔루트 BCAA 프리 포뮬러</item>
+        <item>앱솔루트 MCT 포뮬러</item>
+        <item>앱솔루트 프로테인 프리 포뮬러</item>
+        <item>앱솔루트 메티오닌 프리 포뮬러</item>
+        <item>앱솔루트 로이신 프리 포뮬러</item>
+        <item>앱솔루트 MPA-1 포뮬러</item>
+        <item>앱솔루트 PKU-2 포뮬러</item>
+        <item>앱솔루트 PKU-1 포뮬러</item>
+        <item>앱솔루트 UCD 포뮬러</item>
+        <item>앱솔루트 MPA-2 포뮬러</item>
+        <item>아이엠마더 1단계</item>
+        <item>아이엠마더 2단계</item>
+        <item>아이엠마더 3단계</item>
+        <item>아이엠마더 4단계</item>
+        <item>임페리얼 드림 XO 1단계</item>
+        <item>임페리얼 드림 XO 2단계</item>
+        <item>임페리얼 드림 XO 3단계</item>
+        <item>임페리얼 드림 XO 4단계</item>
+        <item>아기사랑 수 엑스퍼트 1단계</item>
+        <item>아기사랑 수 엑스퍼트 2단계</item>
+        <item>아기사랑 수 엑스퍼트 3단계</item>
+        <item>아기사랑 수 엑스퍼트 4단계</item>
+        <item>마더스 오가닉 1단계</item>
+        <item>마더스 오가닉 2단계</item>
+        <item>마더스 오가닉 3단계</item>
+        <item>마더스 오가닉 4단계</item>
+        <item>호프 알레기</item>
+        <item>호프 닥터</item>
+        <item>미숙아 분유</item>
+        <item>위드맘 산양분유 1단계</item>
+        <item>위드맘 산양분유 2단계</item>
+        <item>위드맘 산양분유 3단계</item>
+        <item>위드맘 유기농 1단계</item>
+        <item>위드맘 유기농 2단계</item>
+        <item>위드맘 유기농 3단계</item>
+        <item>위드맘 스타트</item>
+        <item>위드맘 1단계</item>
+        <item>위드맘 2단계</item>
+        <item>위드맘 3단계</item>
+        <item>올곧게 만든 위드맘 1단계</item>
+        <item>올곧게 만든 위드맘 2단계</item>
+        <item>올곧게 만든 위드맘 3단계</item>
+        <item>그랑노블 1단계</item>
+        <item>그랑노블 2단계</item>
+        <item>그랑노블 3단계</item>
+        <item>트루맘 프리미엄 1단계</item>
+        <item>트루맘 프리미엄 2단계</item>
+        <item>트루맘 프리미엄 3단계</item>
+        <item>트루맘 프리미엄 4단계</item>
+        <item>트루맘 프리미엄 후레쉬 1단계</item>
+        <item>트루맘 프리미엄 후레쉬 2단계</item>
+        <item>트루맘 프리미엄 후레쉬 3단계</item>
+        <item>트루맘 프리미엄 후레쉬 4단계</item>
+        <item>트루맘 슈퍼 프리미엄 퀸 1단계</item>
+        <item>트루맘 슈퍼 프리미엄 퀸 2단계</item>
+        <item>트루맘 슈퍼 프리미엄 퀸 3단계</item>
+        <item>트루맘 슈퍼 프리미엄 퀸 4단계</item>
+        <item>트루맘 메디소이</item>
+        <item>트루맘 메디설사</item>
+        <item>트루맘 뉴클래스 1단계</item>
+        <item>트루맘 뉴클래스 2단계</item>
+        <item>트루맘 뉴클래스 3단계</item>
+        <item>후디스 프리미엄 산양분유 1단계</item>
+        <item>후디스 프리미엄 산양분유 2단계</item>
+        <item>후디스 프리미엄 산양분유 3단계</item>
+        <item>후디스 프리미엄 산양분유 4단계</item>
+        <item>노발락 1단계</item>
+        <item>노발락 2단계</item>
+        <item>노발락AC</item>
+        <item>노발락IT</item>
+        <item>노발락AD</item>
+        <item>노발락AR</item>
+        <item>아이배냇 순산양분유 1단계</item>
+        <item>아이배냇 순산양분유 2단계</item>
+        <item>아이배냇 순산양분유 3단계</item>
+        <item>아이배냇 순산양분유 4단계</item>
+
+    </string-array>
+
+
+</resources>

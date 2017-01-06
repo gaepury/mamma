@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:orientation="horizontal">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:layout_marginLeft="20dp">
+
+        <ImageView
+            android:id="@+id/Listnum_IV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/circle2"/>
+
+        <TextView
+            android:id="@+id/detailmilknum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textSize="13sp"
+            android:textColor="#ffffff"
+            android:text="1"
+            android:textStyle="bold"/>
+
+    </FrameLayout>
+<FrameLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingTop="14dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:textColor="#65C570"
+            android:id="@+id/oneline_TV"
+            android:text="한줄평"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/user_TV"
+            android:textSize="11sp"
+            android:layout_marginTop="2dp"
+            android:textColor="#65C570"
+            android:text="작성자"/>
+    </LinearLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="175dp"
+    android:layout_marginTop="20dp">
+    <RatingBar
+        android:id="@+id/ReviewGrade_RB"
+        style="@style/customRatingBar"
+        android:paddingTop="14dp"
+        android:isIndicator="true"
+       android:layout_marginRight="40dp"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"/>
+
+</LinearLayout>
+</FrameLayout>
+</LinearLayout>

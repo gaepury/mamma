@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal">
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="6dp"
+
+        android:id="@+id/SearchResultMilk_IV"
+        android:src="@drawable/home_drymilk_1"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+
+            android:id="@+id/SearchResultMilk_TV"
+
+            android:textStyle="bold"
+            android:textColor="#67C570"
+            android:text="위드맘 산양분유"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+
+            android:id="@+id/SearchResultLevel_TV"
+
+            android:textColor="#67C570"
+            android:text="1단계"/>
+
+    </LinearLayout>
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="27dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginLeft="30dp"
+        android:isIndicator="true"
+        android:id="@+id/SearchResultGrade_RB"
+        style="@style/customRatingBar" />
+
+</LinearLayout>

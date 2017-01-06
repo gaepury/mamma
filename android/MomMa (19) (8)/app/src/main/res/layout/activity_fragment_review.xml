@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_fragment_review"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="13dp"
+
+            android:src="@drawable/home_review"
+            android:layout_gravity="center_vertical"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+
+            android:textSize="16dp"
+            android:textColor="#57C670"
+            android:textStyle="bold"
+            android:text="리뷰가 많은 분유"
+            android:layout_weight="7"/>
+
+        <Button
+            android:layout_width="24dp"
+            android:layout_height="12dp"
+            android:layout_marginRight="23dp"
+            android:layout_gravity="center_vertical"
+
+            android:background="@drawable/home_more"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#EAEAEA" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="55dp">
+
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="22dp"
+
+                android:src="@drawable/home_first"
+                android:id="@+id/Review_Number_IV" />
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="7dp"
+                android:layout_gravity="center_vertical"
+
+                android:src="@drawable/home_drymilk_1"
+                android:id="@+id/Review_Drymilk_IV"
+                android:layout_toRightOf="@+id/Review_Number_IV"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="9dp"
+                android:text="분유D"
+                android:id="@+id/Review_Drymilk_TV"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/Review_Drymilk_TV"
+                android:text="분유설명"
+                android:layout_centerVertical="true"
+                android:id="@+id/Review_Content_TV"
+                android:layout_gravity="center_vertical"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="100dp"
+
+                android:src="@drawable/mypage_more"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

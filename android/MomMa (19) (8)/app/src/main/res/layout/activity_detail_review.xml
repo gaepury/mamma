@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_detail_review"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#67C570"
+        android:paddingTop="19dp"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:layout_width="49dp"
+            android:layout_height="27dp"
+            android:background="@drawable/home_logo"
+            android:textColor="#000000"
+            android:layout_marginRight="14dp"
+            android:layout_marginLeft="18dp"
+            android:id="@+id/dt_review_gohome" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:background="@drawable/border">
+
+            <EditText
+                android:layout_width="220dp"
+                android:layout_height="35dp"
+                android:background="@null"
+                android:paddingRight="10dp"
+                android:id="@+id/dt_review_search" />
+
+            <ImageView
+                android:layout_marginLeft="185dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:id="@+id/dt_review_searchgo"
+                android:background="@drawable/home_search"/>
+
+        </RelativeLayout>
+
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_width="24dp"
+            android:layout_height="23dp"
+            android:paddingTop="7dp"
+            android:background="@drawable/home_mypage"
+            android:id="@+id/dt_review_mypage" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#FAFAFA"
+        >
+
+        <Button
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:id="@+id/dt_review_back"
+            android:background="@drawable/signup_back"
+            android:layout_centerVertical="true"
+
+            android:layout_marginLeft="18dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="리뷰 정보"
+            android:textSize="16sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="150dp"
+
+
+            />
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#EAEAEA" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:background="#ffffff"
+        >
+
+        <ImageView
+            android:layout_width="106dp"
+            android:layout_height="106dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/DetailreviewDrymilk_IV"
+            android:src="@drawable/home_drymilk_1"/>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="17dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginLeft="130dp"
+            android:text="그랑노블"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:drawablePadding="8dp"
+            android:textColor="#67C570"
+            android:id="@+id/detalireview_name"
+            android:drawableLeft="@drawable/signup_line"
+            />
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="파스퇴르"
+            android:textSize="13sp"
+            android:textColor="#67C570"
+            android:layout_marginLeft="140dp"
+            android:layout_marginTop="80dp"
+            android:id="@+id/detailreviewmanu"
+            />
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="17dp"
+            android:background="@drawable/review_good_gray"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="240dp"
+            android:id="@+id/goodbut"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10"
+            android:paddingTop="3dp"
+            android:textStyle="bold"
+            android:textSize="11dp"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="265dp"
+            android:id="@+id/goodnum"
+            />
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="17dp"
+            android:background="@drawable/review_bad_gray"
+            android:layout_marginTop="83dp"
+            android:layout_marginLeft="290dp"
+            android:id="@+id/badbut"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:text="12"
+            android:textSize="11sp"
+            android:paddingTop="3dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="318dp"
+            android:id="@+id/badnum"
+            />
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="7dp"
+        android:background="#EAEAEA" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:orientation="vertical"
+        android:background="#98DB9E">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="한줄평"
+            android:textStyle="bold"
+            android:id="@+id/oneline"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#EAEAEA"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/reivew_good"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21dp"
+
+                android:id="@+id/imageView4" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="평점"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="50dp"
+                android:id="@+id/textView3" />
+
+
+            <RatingBar
+                android:id="@+id/dtreview_RB"
+                style="@style/customRatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:isIndicator="true"
+                android:rating="0"
+                android:stepSize="0.5"
+                android:layout_marginLeft="170dp"
+                android:layout_marginTop="21dp"
+
+                android:layout_alignParentBottom="true" />
+
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/review_check"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="21dp"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="아이 고민"
+                android:textStyle="bold"
+                android:textSize="14sp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="50dp"
+                />
+
+            <LinearLayout
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+            <ImageView
+                android:layout_width="55dp"
+                android:layout_height="28dp"
+                android:text="아토피"
+                android:textColor="#ffffff"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="135dp"
+                android:id="@+id/dtworry1"
+                android:visibility="invisible"
+                android:src="@drawable/signup_allergy_click"/>
+
+            <ImageView
+                android:layout_width="55dp"
+                android:layout_height="28dp"
+                android:text="아토피"
+                android:textColor="#ffffff"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:visibility="invisible"
+                android:id="@+id/dtworry2"
+                android:src="@drawable/signup_atopy_click"/>
+
+            <ImageView
+                android:layout_width="55dp"
+                android:layout_height="28dp"
+                android:text="아토피"
+                android:layout_marginLeft="10dp"
+                android:textColor="#ffffff"
+                android:layout_centerVertical="true"
+                android:visibility="invisible"
+                android:id="@+id/dtworry3"
+                android:src="@drawable/signup_bowel_click"/>
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#EAEAEA"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/review_smile"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="17dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="좋았던 점"
+                android:textStyle="bold"
+                android:textColor="#67C570"
+                android:textSize="14sp"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="50dp"
+
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="내용"
+                android:paddingRight="20dp"
+                android:id="@+id/dtgood"
+                android:textSize="12sp"
+                android:layout_marginTop="35dp"
+                android:layout_marginLeft="50dp"
+
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/review_sad"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="17dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="아쉬웠던 점"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="#67C570"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="50dp"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="내용"
+                android:textSize="12sp"
+                android:paddingRight="20dp"
+                android:id="@+id/dtbad"
+                android:layout_marginTop="35dp"
+                android:layout_marginLeft="50dp"
+
+                />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/review_tip"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="17dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="꿀팁 (선택사항)"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="#67C570"
+                android:layout_marginTop="13dp"
+                android:layout_marginLeft="50dp"
+
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="내용"
+                android:paddingRight="20dp"
+                android:textSize="12sp"
+                android:id="@+id/dttip"
+                android:layout_marginTop="35dp"
+                android:layout_marginLeft="50dp"
+
+                />
+
+        </RelativeLayout>
+    </LinearLayout>
+   </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

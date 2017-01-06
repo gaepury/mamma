@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <TextView
+            android:id="@+id/Next_TV"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="회원가입"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:gravity="center"/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="300dp"
+            android:src="@drawable/signup_text_ok"
+            android:id="@+id/ok_IM"
+            />
+
+        <ImageView
+            android:layout_width="27dp"
+            android:layout_height="27dp"
+            android:src="@drawable/signup_back"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="18dp"
+            android:id="@+id/back_IM" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+        <TextView
+            android:id="@+id/Information2_TV"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+
+            android:text="기본정보"
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:textAlignment="center"
+            android:textStyle="italic"
+
+            android:paddingTop="20dp"
+            android:gravity="left"
+            android:background="#67C570"/>
+
+        <TextView
+            android:layout_width="185dp"
+            android:layout_height="60dp"
+
+            android:text="아이정보"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:textColor="#ffffff"
+            android:textAlignment="center"
+
+            android:paddingTop="20dp"
+            android:layout_gravity="right"
+            android:background="#67C570"/>
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/signup_next"
+            android:id="@+id/imageView2"
+            android:layout_gravity="center"
+            />
+
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="100dp"
+        android:layout_height="17dp"
+        android:layout_marginTop="26dp"
+        android:layout_marginLeft="33dp"
+
+        android:text="아이정보"
+        android:textStyle="bold"
+        android:textColor="#67C570"
+        android:textSize="13sp"
+
+        android:drawablePadding="13dp"
+        android:drawableLeft="@drawable/signup_line"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:layout_marginLeft="60dp"
+
+        android:text="나의 아이에게 맞는 분유정보를 보는데 쓰여요!"
+        android:textColor="#67C570"
+        android:textSize="11sp"
+        android:textStyle="italic"
+        />
+
+    <EditText
+        android:layout_marginTop="30dp"
+        android:layout_width="290dp"
+        android:layout_height="40dp"
+        android:background="@drawable/border"
+        android:textCursorDrawable="@null"
+        android:singleLine="true"
+        android:layout_gravity="center"
+        android:drawableLeft="@drawable/signup_babyname"
+        android:hint="이름"
+
+        android:textSize="13sp"
+        android:textColorHint="#67C570"
+
+        android:drawablePadding="12dp"
+        android:paddingLeft="16dp"
+        android:id="@+id/b_name" />
+
+    <EditText
+
+        android:layout_marginTop="10dp"
+        android:layout_width="290dp"
+        android:layout_height="40dp"
+        android:textCursorDrawable="@null"
+        android:background="@drawable/border"
+        android:singleLine="true"
+        android:layout_gravity="center"
+        android:drawableLeft="@drawable/signup_birth"
+        android:hint="생년월일                      예) 19800101"
+
+        android:textSize="13sp"
+        android:textColorHint="#67C570"
+
+        android:drawablePadding="12dp"
+        android:paddingLeft="16dp"
+        android:id="@+id/b_birth" />
+
+    <RelativeLayout
+        android:layout_marginTop="17dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="28dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="46dp"
+            android:src="@drawable/signup_girlboy"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="85dp"
+            android:text="성별"
+            android:textSize="13sp"
+            android:textColor="#67C570"
+            />
+
+        <Button
+            android:layout_marginLeft="250dp"
+            android:layout_width="55dp"
+            android:layout_height="28dp"
+            android:background="@drawable/signup_boy"
+            android:id="@+id/boy_BT"
+            />
+
+        <Button
+            android:layout_width="55dp"
+            android:layout_height="28dp"
+            android:background="@drawable/signup_girl"
+            android:layout_marginLeft="165dp"
+            android:id="@+id/girl_BT" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="28dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/signup_worry"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="85dp"
+            android:text="아이 고민"
+            android:textSize="13sp"
+            android:textColor="#67C570"
+            />
+
+        <Button
+            android:layout_marginLeft="165dp"
+            android:layout_width="55dp"
+            android:layout_height="28dp"
+            android:background="@drawable/signup_no"
+            android:id="@+id/signupno_BT"
+            />
+
+        <Button
+            android:layout_marginLeft="250dp"
+            android:layout_width="55dp"
+            android:layout_height="28dp"
+            android:background="@drawable/signup_allergy"
+            android:id="@+id/allergy_BT"
+            />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="13dp"
+        android:layout_width="match_parent"
+        android:layout_height="28dp">
+
+
+        <Button
+            android:layout_marginLeft="165dp"
+            android:layout_width="55dp"
+            android:layout_height="28dp"
+            android:id="@+id/atopy_BT"
+            android:background="@drawable/signup_atopy"
+            />
+
+        <Button
+            android:layout_marginLeft="250dp"
+            android:layout_width="55dp"
+            android:layout_height="28dp"
+            android:id="@+id/bowel_BT"
+            android:background="@drawable/signup_bowel"
+            />
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_detail_drymilk"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#67C570"
+        android:paddingTop="19dp"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:gravity="center"
+
+            android:layout_width="49dp"
+            android:layout_height="27dp"
+            android:background="@drawable/home_logo"
+            android:textColor="#000000"
+            android:layout_marginRight="14dp"
+            android:layout_marginLeft="18dp"
+            android:paddingTop="10dp"
+            android:id="@+id/ingre_inrank_gohome" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:background="@drawable/border">
+
+            <EditText
+                android:layout_width="220dp"
+                android:layout_height="35dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:background="@null"
+                android:paddingRight="10dp"
+                android:id="@+id/ingre_inrank_search" />
+
+            <ImageView
+                android:layout_marginLeft="185dp"
+                android:layout_marginTop="5dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:id="@+id/ingre_inrank_searchgo"
+                android:background="@drawable/home_search"/>
+
+        </RelativeLayout>
+
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_width="24dp"
+            android:layout_height="23dp"
+            android:paddingTop="7dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/home_mypage"
+            android:id="@+id/ingre_inrank_mypage" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="58dp">
+
+        <Button
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:id="@+id/ingre_inrank_back"
+            android:background="@drawable/signup_back"
+            android:layout_marginLeft="18dp"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:text=" 포함순위"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:background="#FAFAFA"
+            android:id="@+id/ingre_nm" />
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal|center_vertical"
+        android:background="#EAEAEA">
+    <Button
+        android:layout_width="57dp"
+        android:layout_height="30dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/btnS"
+        android:background="@drawable/grade_s"/>
+        <Button
+            android:layout_width="57dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btn1"
+            android:background="@drawable/grade_1_click"/>
+        <Button
+            android:layout_width="57dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btn2"
+            android:background="@drawable/grade_2"/>
+        <Button
+            android:layout_width="57dp"
+            android:layout_height="30dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/btn3"
+            android:background="@drawable/grade_3"/>
+
+        <Button
+            android:layout_width="57dp"
+            android:layout_height="30dp"
+            android:background="@drawable/grade_4"
+            android:id="@+id/btn4" />
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rcvlevel">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>
